@@ -28,8 +28,13 @@ You can add more rows with add pixel and pause each individual row at will.
   You need to STOP MONITORING first before you pause individual rows
 
 I am not responsible for any bans/in game deaths etc. as I reckon the script can easily be detected with anticheat programs 
+
 I am using this script for my personal private server.
+
 Again, DO NOT RUN THIS ON OFFICIAL TIBIA SERVERS, YOU'LL MOST LIKELY GET BANNED
+
 No promises of program working bug free but as far as I'm concerned it is useful. Test it yourself before running.
+
 The only reason for this is on github is to provide to those who just want to chill playing Tibia OTS out of feeling nostalgia
+
 Feel free to contact me on github or make an issue thread for anything you wanna know
